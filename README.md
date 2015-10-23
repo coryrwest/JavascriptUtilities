@@ -12,4 +12,4 @@ Simple JavaScript functions and stuff.
 extention for jQuery to add icontains as an expression (case insensitive).
 
 ### fuzzyContains
-extention for jQuery that incorporated fuzzyset (https://github.com/Glench/fuzzyset.js) into a fuzzyContains expression.
+extention for jQuery that incorporates fuzzyset (https://github.com/Glench/fuzzyset.js) into a fuzzyContains expression.
