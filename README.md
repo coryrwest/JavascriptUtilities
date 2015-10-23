@@ -3,9 +3,9 @@
 Simple JavaScript functions and stuff. 
 
 ## isPageLoaded(page, timeout, callback);
-page = a function that returns the readyState of the page
-timeout = amount of time to wait before canceling the wait and returning anyway.
-callback = function to call once the wait is done
+- page = a function that returns the readyState of the page.
+- timeout = amount of time to wait before canceling the wait and returning anyway.
+- callback = function to call once the wait is done.
 
 ## Jquery Addons
 ### Case insensitive contains
